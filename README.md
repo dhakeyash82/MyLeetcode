@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/dhakeyash82/MyLeetcode/tree/master/0134-gas-station) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dhakeyash82/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/dhakeyash82/MyLeetcode/tree/master/0704-binary-search) |
 ## Queue
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dhakeyash82/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -71,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/dhakeyash82/MyLeetcode/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dhakeyash82/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dhakeyash82/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dhakeyash82/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
