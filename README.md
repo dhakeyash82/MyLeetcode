@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/dhakeyash82/MyLeetcode/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0239-sliding-window-maximum) |
+| [0704-binary-search](https://github.com/dhakeyash82/MyLeetcode/tree/master/0704-binary-search) |
 ## Queue
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/dhakeyash82/MyLeetcode/tree/master/0134-gas-station) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/dhakeyash82/MyLeetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
