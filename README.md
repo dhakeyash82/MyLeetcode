@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/dhakeyash82/MyLeetcode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhakeyash82/MyLeetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dhakeyash82/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dhakeyash82/MyLeetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0239-sliding-window-maximum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/dhakeyash82/MyLeetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/dhakeyash82/MyLeetcode/tree/master/0704-binary-search) |
 ## Queue
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dhakeyash82/MyLeetcode/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/dhakeyash82/MyLeetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dhakeyash82/MyLeetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhakeyash82/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dhakeyash82/MyLeetcode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Quickselect
 |  |
 | ------- |
