@@ -1,5 +1,3 @@
-import java.util.HashMap;
-
 class Solution {
     public String customSortString(String order, String s) {
     
