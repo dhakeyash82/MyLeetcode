@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhakeyash82/MyLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhakeyash82/MyLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhakeyash82/MyLeetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0567-permutation-in-string) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhakeyash82/MyLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0064-minimum-path-sum) |
 ## Matrix
 |  |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/dhakeyash82/MyLeetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhakeyash82/MyLeetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
