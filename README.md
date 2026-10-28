@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhakeyash82/MyLeetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0791-custom-sort-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhakeyash82/MyLeetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0791-custom-sort-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,4 +192,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dhakeyash82/MyLeetcode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
