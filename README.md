@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/dhakeyash82/MyLeetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/dhakeyash82/MyLeetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dhakeyash82/MyLeetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhakeyash82/MyLeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Queue
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/dhakeyash82/MyLeetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dhakeyash82/MyLeetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhakeyash82/MyLeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0791-custom-sort-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0791-custom-sort-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Quickselect
 |  |
 | ------- |
