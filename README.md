@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/dhakeyash82/MyLeetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhakeyash82/MyLeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/dhakeyash82/MyLeetcode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Queue
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhakeyash82/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0239-sliding-window-maximum) |
+| [1882-process-tasks-using-servers](https://github.com/dhakeyash82/MyLeetcode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dhakeyash82/MyLeetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
