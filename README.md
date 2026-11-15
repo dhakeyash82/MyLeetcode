@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dhakeyash82/MyLeetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0791-custom-sort-string) |
+| [0981-time-based-key-value-store](https://github.com/dhakeyash82/MyLeetcode/tree/master/0981-time-based-key-value-store) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/dhakeyash82/MyLeetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0791-custom-sort-string) |
+| [0981-time-based-key-value-store](https://github.com/dhakeyash82/MyLeetcode/tree/master/0981-time-based-key-value-store) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dhakeyash82/MyLeetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/dhakeyash82/MyLeetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/dhakeyash82/MyLeetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dhakeyash82/MyLeetcode/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/dhakeyash82/MyLeetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhakeyash82/MyLeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
@@ -287,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhakeyash82/MyLeetcode/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/dhakeyash82/MyLeetcode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
