@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dhakeyash82/MyLeetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/dhakeyash82/MyLeetcode/tree/master/0069-sqrtx) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/dhakeyash82/MyLeetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhakeyash82/MyLeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhakeyash82/MyLeetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/dhakeyash82/MyLeetcode/tree/master/1882-process-tasks-using-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dhakeyash82/MyLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dhakeyash82/MyLeetcode/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0064-minimum-path-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
