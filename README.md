@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dhakeyash82/MyLeetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/dhakeyash82/MyLeetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhakeyash82/MyLeetcode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/dhakeyash82/MyLeetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0143-reorder-list) |
 | [0349-intersection-of-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/dhakeyash82/MyLeetcode/tree/master/0443-string-compression) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/dhakeyash82/MyLeetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
