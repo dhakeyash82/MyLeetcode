@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhakeyash82/MyLeetcode/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/dhakeyash82/MyLeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/dhakeyash82/MyLeetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/dhakeyash82/MyLeetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dhakeyash82/MyLeetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/dhakeyash82/MyLeetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/dhakeyash82/MyLeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhakeyash82/MyLeetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0443-string-compression](https://github.com/dhakeyash82/MyLeetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0567-permutation-in-string) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/dhakeyash82/MyLeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhakeyash82/MyLeetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0567-permutation-in-string) |
