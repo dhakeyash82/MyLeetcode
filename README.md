@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/dhakeyash82/MyLeetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhakeyash82/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhakeyash82/MyLeetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sorting
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dhakeyash82/MyLeetcode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/dhakeyash82/MyLeetcode/tree/master/0191-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
