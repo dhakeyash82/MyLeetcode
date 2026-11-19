@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhakeyash82/MyLeetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/dhakeyash82/MyLeetcode/tree/master/1882-process-tasks-using-servers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dhakeyash82/MyLeetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3693-climbing-stairs-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/dhakeyash82/MyLeetcode/tree/master/0134-gas-station) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dhakeyash82/MyLeetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Binary Search
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0791-custom-sort-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0791-custom-sort-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dhakeyash82/MyLeetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quickselect
 |  |
 | ------- |
