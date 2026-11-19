@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/dhakeyash82/MyLeetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/dhakeyash82/MyLeetcode/tree/master/0443-string-compression) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dhakeyash82/MyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dhakeyash82/MyLeetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0414-third-maximum-number) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dhakeyash82/MyLeetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/dhakeyash82/MyLeetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhakeyash82/MyLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/dhakeyash82/MyLeetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/dhakeyash82/MyLeetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/dhakeyash82/MyLeetcode/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
@@ -320,9 +324,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhakeyash82/MyLeetcode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/dhakeyash82/MyLeetcode/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/dhakeyash82/MyLeetcode/tree/master/0981-time-based-key-value-store) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
