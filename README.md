@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dhakeyash82/MyLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dhakeyash82/MyLeetcode/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0064-minimum-path-sum) |
+| [0338-counting-bits](https://github.com/dhakeyash82/MyLeetcode/tree/master/0338-counting-bits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/dhakeyash82/MyLeetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dhakeyash82/MyLeetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dhakeyash82/MyLeetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/dhakeyash82/MyLeetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/dhakeyash82/MyLeetcode/tree/master/0338-counting-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
