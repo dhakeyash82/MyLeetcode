@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/dhakeyash82/MyLeetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/dhakeyash82/MyLeetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/dhakeyash82/MyLeetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/dhakeyash82/MyLeetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/dhakeyash82/MyLeetcode/tree/master/0735-asteroid-collision) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/dhakeyash82/MyLeetcode/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/dhakeyash82/MyLeetcode/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/dhakeyash82/MyLeetcode/tree/master/0981-time-based-key-value-store) |
 ## Pigeonhole Principle
