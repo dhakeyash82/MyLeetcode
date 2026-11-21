@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0791-custom-sort-string) |
 | [0981-time-based-key-value-store](https://github.com/dhakeyash82/MyLeetcode/tree/master/0981-time-based-key-value-store) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/dhakeyash82/MyLeetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/dhakeyash82/MyLeetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/dhakeyash82/MyLeetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/dhakeyash82/MyLeetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dhakeyash82/MyLeetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/dhakeyash82/MyLeetcode/tree/master/1882-process-tasks-using-servers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/dhakeyash82/MyLeetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dhakeyash82/MyLeetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/dhakeyash82/MyLeetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3693-climbing-stairs-ii) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/dhakeyash82/MyLeetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -359,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhakeyash82/MyLeetcode/tree/master/0023-merge-k-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/dhakeyash82/MyLeetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
