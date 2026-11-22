@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhakeyash82/MyLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dhakeyash82/MyLeetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhakeyash82/MyLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Interactive
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/dhakeyash82/MyLeetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhakeyash82/MyLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/dhakeyash82/MyLeetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/dhakeyash82/MyLeetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/dhakeyash82/MyLeetcode/tree/master/0496-next-greater-element-i) |
@@ -377,5 +380,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhakeyash82/MyLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dhakeyash82/MyLeetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
