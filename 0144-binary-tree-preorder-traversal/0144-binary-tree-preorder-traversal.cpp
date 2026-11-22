@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     void preorder(TreeNode* root, vector<int>& ans) {
@@ -9,6 +8,7 @@ public:
         preorder(root->left, ans);
         preorder(root->right, ans);
     }
+
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
         preorder(root, ans);
