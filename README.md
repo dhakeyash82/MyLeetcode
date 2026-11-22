@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dhakeyash82/MyLeetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/dhakeyash82/MyLeetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/dhakeyash82/MyLeetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/dhakeyash82/MyLeetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dhakeyash82/MyLeetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/dhakeyash82/MyLeetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0171-excel-sheet-column-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dhakeyash82/MyLeetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dhakeyash82/MyLeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0067-add-binary](https://github.com/dhakeyash82/MyLeetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/dhakeyash82/MyLeetcode/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/dhakeyash82/MyLeetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0171-excel-sheet-column-number) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dhakeyash82/MyLeetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/dhakeyash82/MyLeetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/dhakeyash82/MyLeetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0287-find-the-duplicate-number) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dhakeyash82/MyLeetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/dhakeyash82/MyLeetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/dhakeyash82/MyLeetcode/tree/master/0735-asteroid-collision) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhakeyash82/MyLeetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
