@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/dhakeyash82/MyLeetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dhakeyash82/MyLeetcode/tree/master/0171-excel-sheet-column-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/dhakeyash82/MyLeetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/dhakeyash82/MyLeetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/dhakeyash82/MyLeetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhakeyash82/MyLeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1352-product-of-the-last-k-numbers](https://github.com/dhakeyash82/MyLeetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhakeyash82/MyLeetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/dhakeyash82/MyLeetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Floyd's Cycle Finding Algorithm
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/dhakeyash82/MyLeetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhakeyash82/MyLeetcode/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/dhakeyash82/MyLeetcode/tree/master/0981-time-based-key-value-store) |
+| [1352-product-of-the-last-k-numbers](https://github.com/dhakeyash82/MyLeetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -402,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0100-same-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/dhakeyash82/MyLeetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
