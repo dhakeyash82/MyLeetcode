@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0791-custom-sort-string) |
 | [0981-time-based-key-value-store](https://github.com/dhakeyash82/MyLeetcode/tree/master/0981-time-based-key-value-store) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/dhakeyash82/MyLeetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dhakeyash82/MyLeetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhakeyash82/MyLeetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/dhakeyash82/MyLeetcode/tree/master/1882-process-tasks-using-servers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/dhakeyash82/MyLeetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/dhakeyash82/MyLeetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dhakeyash82/MyLeetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dhakeyash82/MyLeetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/dhakeyash82/MyLeetcode/tree/master/0791-custom-sort-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/dhakeyash82/MyLeetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/dhakeyash82/MyLeetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dhakeyash82/MyLeetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Quickselect
 |  |
