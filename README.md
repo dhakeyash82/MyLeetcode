@@ -275,11 +275,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/dhakeyash82/MyLeetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dhakeyash82/MyLeetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/dhakeyash82/MyLeetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/dhakeyash82/MyLeetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Interactive
 |  |
 | ------- |
@@ -410,12 +413,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/dhakeyash82/MyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/dhakeyash82/MyLeetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dhakeyash82/MyLeetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dhakeyash82/MyLeetcode/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/dhakeyash82/MyLeetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/dhakeyash82/MyLeetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Data Stream
 |  |
 | ------- |
