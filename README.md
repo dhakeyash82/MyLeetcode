@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/dhakeyash82/MyLeetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dhakeyash82/MyLeetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3925-concatenate-array-with-reverse](https://github.com/dhakeyash82/MyLeetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [3934-smallest-unique-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3934-smallest-unique-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/dhakeyash82/MyLeetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhakeyash82/MyLeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhakeyash82/MyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/dhakeyash82/MyLeetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhakeyash82/MyLeetcode/tree/master/0706-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhakeyash82/MyLeetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3934-smallest-unique-subarray) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -443,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/dhakeyash82/MyLeetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
