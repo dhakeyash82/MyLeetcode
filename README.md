@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3925-concatenate-array-with-reverse](https://github.com/dhakeyash82/MyLeetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3934-smallest-unique-subarray](https://github.com/dhakeyash82/MyLeetcode/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/dhakeyash82/MyLeetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Queue
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhakeyash82/MyLeetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/dhakeyash82/MyLeetcode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhakeyash82/MyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dhakeyash82/MyLeetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0410-split-array-largest-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/dhakeyash82/MyLeetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/dhakeyash82/MyLeetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/dhakeyash82/MyLeetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Binary Search
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/dhakeyash82/MyLeetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/dhakeyash82/MyLeetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dhakeyash82/MyLeetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/dhakeyash82/MyLeetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quickselect
 |  |
 | ------- |
