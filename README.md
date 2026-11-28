@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dhakeyash82/MyLeetcode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/dhakeyash82/MyLeetcode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dhakeyash82/MyLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhakeyash82/MyLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/dhakeyash82/MyLeetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/dhakeyash82/MyLeetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/dhakeyash82/MyLeetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/dhakeyash82/MyLeetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/dhakeyash82/MyLeetcode/tree/master/0735-asteroid-collision) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dhakeyash82/MyLeetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/dhakeyash82/MyLeetcode/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/dhakeyash82/MyLeetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhakeyash82/MyLeetcode/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/dhakeyash82/MyLeetcode/tree/master/0981-time-based-key-value-store) |
